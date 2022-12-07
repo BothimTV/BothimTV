@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BothimTV
 - 👀 I’m interested in Programming POG
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: http://invite.gg/redcraft
+- 📫 How to reach me: http://bothimtv.com/discord
 
 
 <!---
